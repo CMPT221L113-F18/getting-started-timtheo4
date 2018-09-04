@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    color: black;
+    background-image: linear-gradient(to bottom right,blue, green);
+    background-size:contain;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: fantasy;
+    color: white;
+}
+
+p {
+    font-family: fantasy;
+    color: white;
+}
+
+label {
+    font-family: fantasy;
+}
+
+output {
+    font-family: fantasy;
+    color: white;
+}
